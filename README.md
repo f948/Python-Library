@@ -10,4 +10,5 @@ Place all of the program files in the same folder and make sure any of the pytho
 
 # LICENSE:
 
-NOT FOR COMMERCIAL USE If you intened to use any of my code for commercial use please contact me and get my permission. If you intend to make money using any of my code please ask my permission.
+NOT FOR COMMERCIAL USE If you intend to use any of my code for commercial use please contact me and get my permission. If you intend to make money using any of my code please ask my permission.
+
