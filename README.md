@@ -6,6 +6,7 @@ Description: A small programming language built and run using python. This langu
 Python 3 to run the files 
 
 # To make the code work
+Copy and paste the code from this repository into the Python 3 IDE and save the files with the same names as listed above
 Place all of the program files in the same folder and make sure any of the python programs run using this framework are in the same folder as the program files. 
 
 # LICENSE:
