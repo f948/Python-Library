@@ -2,6 +2,8 @@
 
 Description: A small programming language built and run using python. This language has variable declaration integer,string, and boolean variable operations, error messages, and built in functions that can be used for calculus, linear algebra, and statistics. 
 
+Video demonstration avaliable at https://www.youtube.com/watch?v=8XuoZo_daSw&t=14s
+
 # Required 
 Python 3 to run the files 
 
