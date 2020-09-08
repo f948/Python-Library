@@ -1,4 +1,4 @@
-# Python Programming Framework-
+# Python Software Library
 
 Description: A small programming language built and run using python. This language has variable declaration integer,string, and boolean variable operations, error messages, and built in functions that can be used for calculus, linear algebra, and statistics. 
 
